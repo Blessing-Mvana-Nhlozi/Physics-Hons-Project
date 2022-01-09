@@ -12,7 +12,7 @@ One of the most appealing areas of research in the domain of gas sensing is gas 
 The purpose of simulating is to figure out how the process of gas detection works via relative conductivity signal. It gives a useful way of analysis that is simple to verify, discuss, and comprehend. Simulation modelling delivers valuable solutions across sectors and disciplines by providing clear insights into complicated systems.
 
 ##### Dataset 
-
+The data was extracted from an article by Shuichi Seto et el
 
 
 ```Blessing Mvana Nhlozi```
