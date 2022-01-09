@@ -14,5 +14,7 @@ The purpose of simulating is to figure out how the process of gas detection work
 ##### Dataset 
 The data was extracted from an article by Shuichi Seto et el
 
-
+Student
 ```Blessing Mvana Nhlozi```
+Supervisor
+```Dr Betty Kibirige```
