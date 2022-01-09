@@ -13,6 +13,6 @@ The purpose of simulating is to figure out how the process of gas detection work
 
 ##### Dataset 
 
-The dataset aggregates tweets pertaining to climate change collected between Apr 27, 2015 and Feb 21, 2018.
+
 
 ```Blessing Mvana Nhlozi```
